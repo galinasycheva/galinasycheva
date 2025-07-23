@@ -1,14 +1,14 @@
 ### Hello everyone, my name is Galina!
 
 I have an analytical background in Social studies and Law, and recently, I completed my degree in Data Analysis and started my career as freelance data analyst.
-My skillset includes Python (pandas, seaborn, matplotlib, scipy), SQL, Google Sheets/Excel and Tableau.
-
-Skills: Python/ SQL/ Tableau
 
 - 📫 How to reach me: tg @sycheva_g 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/galina-sycheva?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)  
+
+
 
 
 
